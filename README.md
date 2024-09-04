@@ -1,4 +1,4 @@
-# PIM-2---Sistema-Hortifruti---Repositorio-de-Organizacao
+# PIM II  Sistema Hortifruti  Repositorio de Organizacao
 
 UNIP  -  Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 Projeto Integrado Multidisciplinar II  -  2ºSEM 
