@@ -1,0 +1,22 @@
+Objetivo: 
+Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti
+
+**SPRINT PLANNING**
+
+**Estrutura de programa físico**
+
+ A. Cadastro de inventário - Prioridade Alta
+ A.1   Código de tipo de produto
+ A.2   Precificação de Custo
+ A.3   Precificação de Venda
+
+ B. Estoque - Nível de prioridade Alta
+ B.1   Data de chegada
+ B.2   Quantidade
+ B.3   Cadastro de validade
+
+ C. Fluxo de saída de caixa - Prioridade Média
+ C.1   Data de saída
+ C.2   Valor adquirido
+ C.3   Registro de cliente
+  
