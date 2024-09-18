@@ -1,34 +1,41 @@
-Objetivo: Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti
-
-
-Ideias:
-Cadastro de entrada ao estoque
-Programa focado na análise de estoque
-Fluxo de caixa
-Conexão entre estoque e fluxo de saída
-Controle de qualidade
-Otimização de logística do estoque
-Custo/Lucro
-
-
+Objetivo: 
+Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti
 
 
 
 
 BACKLOG:
-Cadastro de inventário - Prioridade Alta
-  Código de tipo de produto
-  Precificação de Custo
-  Precificação de Venda
-  
 
-Estoque - Nível de prioridade Alta
-  Data de chegada
-  Quantidade
-  Cadastro de validade
+**Estrutura de Desenvolvimento PIM**
 
-Fluxo de saída de caixa - Prioridade Média
-  Data de saída
-  Valor adquirido
-  Registro de cliente
-  
+  (REQUISITO BASEADOS NO ARQUIVO "ESTRUTURA_PIM II_2024(ADS)").
+
+**Prioridade Baixa**
+  RESUMO
+
+**Prioridade Alta**
+  INTRODUÇÃO 
+  LINGUAGEM E TÉCNICAS DE PROGRAMAÇÃO
+  ENGENHARIA DE SOFTWARE I
+  FUNDAMENTOS DE REDES DE DADOS E COMUNICAÇÃO
+
+**Prioridade Média**
+  MATEMÁTICA PARA COMPUTAÇÃO
+  ÉTICA E LEGISLAÇÃO PROFISSIONAL
+  EDUCAÇÃO AMBIENTAL
+  DESENVOLVIMENTO DO PROJETO
+
+**Prioridade Baixa**
+  Caracterização do ambiente de estudo
+  Desenvolvimento
+  CONCLUSÃO
+  REFERÊNCIAS
+
+**Programa Físico**
+  Cadastro de entrada ao estoque
+  Programa focado na análise de estoque
+  Fluxo de caixa
+  Conexão entre estoque e fluxo de saída
+  Controle de qualidade
+  Otimização de logística do estoque
+  Custo/Lucro
