@@ -8,6 +8,7 @@ Fluxo de caixa
 Conexão entre estoque e fluxo de saída
 Controle de qualidade
 Otimização de logística do estoque
+Custo/Lucro
 
 
 
@@ -17,8 +18,9 @@ Otimização de logística do estoque
 BACKLOG:
 Cadastro de inventário - Prioridade Alta
   Código de tipo de produto
-  Precificação
-
+  Precificação de Custo
+  Precificação de Venda
+  
 
 Estoque - Nível de prioridade Alta
   Data de chegada
