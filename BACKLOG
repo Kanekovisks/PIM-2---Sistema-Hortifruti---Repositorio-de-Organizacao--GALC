@@ -1,0 +1,32 @@
+Objetivo: Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti
+
+
+Ideias:
+Cadastro de entrada ao estoque
+Programa focado na análise de estoque
+Fluxo de caixa
+Conexão entre estoque e fluxo de saída
+Controle de qualidade
+Otimização de logística do estoque
+
+
+
+
+
+
+BACKLOG:
+Cadastro de inventário - Prioridade Alta
+  Código de tipo de produto
+  Precificação
+
+
+Estoque - Nível de prioridade Alta
+  Data de chegada
+  Quantidade
+  Cadastro de validade
+
+Fluxo de saída de caixa - Prioridade Média
+  Data de saída
+  Valor adquirido
+  Registro de cliente
+  
