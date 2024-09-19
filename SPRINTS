@@ -4,43 +4,43 @@ Desenvolvimento de um sistema composto por múltiplos programas em modo console 
 **SPRINT PLANNING**
 
  //Prioridade Baixa
-  RESUMO
+ A. RESUMO
 
 //Prioridade Alta
-  INTRODUÇÃO 
-  LINGUAGEM E TÉCNICAS DE PROGRAMAÇÃO
-  ENGENHARIA DE SOFTWARE I
-  FUNDAMENTOS DE REDES DE DADOS E COMUNICAÇÃO
+ B. INTRODUÇÃO 
+ C. LINGUAGEM E TÉCNICAS DE PROGRAMAÇÃO
+ D. ENGENHARIA DE SOFTWARE I
+ E. FUNDAMENTOS DE REDES DE DADOS E COMUNICAÇÃO
 
 //Prioridade Média
-  MATEMÁTICA PARA COMPUTAÇÃO
-  ÉTICA E LEGISLAÇÃO PROFISSIONAL
-  EDUCAÇÃO AMBIENTAL
-  DESENVOLVIMENTO DO PROJETO
+ F. MATEMÁTICA PARA COMPUTAÇÃO
+ G. ÉTICA E LEGISLAÇÃO PROFISSIONAL
+ H. EDUCAÇÃO AMBIENTAL
+ I. DESENVOLVIMENTO DO PROJETO
 
 //Prioridade Baixa
-  Caracterização do ambiente de estudo
-  Desenvolvimento
-  CONCLUSÃO
-  REFERÊNCIAS
+ J. Caracterização do ambiente de estudo
+ K. Desenvolvimento
+ L. CONCLUSÃO
+ M. REFERÊNCIAS
 
 **Estrutura de programa físico**
 
 //Prioridade Alta
- A. Cadastro de inventário
- A.1   Código de tipo de produto
- A.2   Precificação de Custo
- A.3   Precificação de Venda
+ N. Cadastro de inventário
+ N.1   Código de tipo de produto
+ N.2   Precificação de Custo
+ N.3   Precificação de Venda
 
 //Prioridade Alta
- B. Estoque
- B.1   Data de chegada
- B.2   Quantidade
- B.3   Cadastro de validade
+ O. Estoque
+ O.1   Data de chegada
+ O.2   Quantidade
+ O.3   Cadastro de validade
 
 //Prioridade Média
- C. Fluxo de saída de caixa
- C.1   Data de saída
- C.2   Valor adquirido
- C.3   Registro de cliente
+ P. Fluxo de saída de caixa
+ P.1   Data de saída
+ P.2   Valor adquirido
+ P.3   Registro de cliente
   
