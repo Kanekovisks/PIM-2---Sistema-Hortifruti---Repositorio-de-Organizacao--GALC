@@ -25,9 +25,16 @@ BACKLOG:
 
 **Programa Físico**
   Cadastro de entrada ao estoque
+    + Registrar o código do produto baseado no peso/tipo/valor/marca 
   Programa focado na análise de estoque
+    + Identificar o código do produto e quantidade recebida
   Fluxo de caixa
+    + Registrar saída do estoque
   Conexão entre estoque e fluxo de saída
+    + Automatizar o recebimento do sistema do estoque de informações de saída
   Controle de qualidade
+    + Controle de validade do produto
   Otimização de logística do estoque
+    + Melhoria na busca dos produtos dentro do estoque
   Custo/Lucro
+    + Identificação automatizada de balanço entrada/saída
