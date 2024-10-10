@@ -28,7 +28,7 @@ BACKLOG:
 **Programa**
 
   Cadastro de entrada ao estoque
-    + Registrar o código do produto baseado no peso/tipo/valor/marca 
+    + Registrar o código do produto baseado no tipo/valor
 
   Programa focado na análise de estoque
     + Identificar o código do produto e quantidade recebida
