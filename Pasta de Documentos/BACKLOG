@@ -1,6 +1,5 @@
-Objetivo: 
-Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti
-
+OBJETIVO: 
+Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti.
 
 
 
@@ -27,23 +26,23 @@ BACKLOG:
 
 **Programa**
 
-  Cadastro de entrada ao estoque
+  Cadastrar entrada ao estoque
     + Registrar o código do produto baseado no tipo/valor
 
-  Programa focado na análise de estoque
+  Análisar estoque
     + Identificar o código do produto e quantidade recebida
 
-  Fluxo de caixa
+  Verificar fluxo de caixa
     + Registrar saída do estoque
 
-  Conexão entre estoque e fluxo de saída
+  Conectar estoque e fluxo de saída
     + Automatizar o recebimento do sistema do estoque de informações de saída
 
-  Controle de qualidade
+  Verificar controle de qualidade
     + Controle de validade do produto
 
-  Otimização de logística do estoque
+  Otimizar logística do estoque
     + Melhoria na busca dos produtos dentro do estoque
 
-  Custo/Lucro
+  Verificar o Custo/Lucro
     + Identificação automatizada de balanço entrada/saída
