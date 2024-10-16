@@ -26,23 +26,23 @@ BACKLOG:
 
 **Programa**
 
-  Cadastrar entrada ao estoque (ADM)
-    + Registrar o código do produto baseado no tipo/valor
+  Cadastro de entrada ao estoque (ESTOQUISTA)
+    + Registrar o código do produto baseado no peso/tipo/valor/marca 
 
-  Análisar estoque (ADM)
+  Análise de estoque (ESTOQUISTA)
     + Identificar o código do produto e quantidade recebida
 
-  Verificar fluxo de caixa (CAIXA)
+  Fluxo de caixa (CAIXA)
     + Registrar saída do estoque
 
-  Conectar estoque e fluxo de saída (ESTOQUISTA/ADM)
-    + Automatizar o recebimento do sistema do estoque de informações de saída
+  Conexão entre estoque e fluxo de saída (CAIXA)
+    + Recebimento do sistema do estoque de informações de saída
 
-  Verificar controle de qualidade (ADM)
+  Controle de qualidade (ESTOQUISTA)
     + Controle de validade do produto
 
-  Otimizar logística do estoque (ESTOQUISTA)
+  Otimização de logística do estoque (ADM)
     + Melhoria na busca dos produtos dentro do estoque
 
-  Verificar o Custo/Lucro (ADM)
-    + Identificação automatizada de balanço entrada/saída
+  Custo/Lucro (ADM)
+    + Identificação de balanço entrada/saída
