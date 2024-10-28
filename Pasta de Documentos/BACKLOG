@@ -27,10 +27,7 @@ BACKLOG:
 **Programa**
 
   Cadastro de entrada ao estoque (ESTOQUISTA)
-    + Registrar o código do produto baseado no peso/tipo/valor/marca 
-
-  Análise de estoque (ESTOQUISTA)
-    + Identificar o código do produto e quantidade recebida
+    + Registrar o código do produto baseado no tipo/valor/quantidade 
 
   Fluxo de caixa (CAIXA)
     + Registrar saída do estoque
