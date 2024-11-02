@@ -99,7 +99,7 @@ Menu Estoque
 	  Dizer o Nome do produto
   	Dizer a quantidade do produto
   	Dizer preço do produto
-  	Adicionar ao "estoque.txt"
+  	Adicionar ao Arquivo
 
   2 Listar
   	Mostrar ID do produto
@@ -109,11 +109,11 @@ Menu Estoque
 
   3 Buscar
   	Dizer o ID do produto
-  	Procurar produto no "estoque.txt"
+  	Procurar produto no Arquivo
 
   4 Remover
   	Dizer ID do produtor
-  	Remover produto do "estoque.txt"
+  	Remover produto do Arquivo
 
   0 Voltar
 
@@ -126,7 +126,7 @@ Menu Vendas
   	Listar itens estoque (ID,DESC,VALOR,QUANT)
   	Solicitar ID ser vendido
   	Solicitar QUANT 
-  	Concluir 
+  	Salvar no Arquivo 
   	Listar venda atual (ID,DESC,QUANT,VALOR_UNIT,VALOR_TOT)
 
   2 Visualizar Vendas
@@ -162,17 +162,17 @@ Menu de Caixa
 
 Menu Contas
   1 Adicionar
-	  Dizer o Nome da conta
+	Dizer o Nome da conta
   	Dizer a Senha da conta
   	Definir tipo da conta // 1 - Admin / 0 - Normal
-  	Adicionar conta no "usuarios.txt"
+  	Adicionar conta no Arquivo
 
   2 Remover
   	Dizer o Nome da conta
-  	Remover conta do "usuarios.txt"
+  	Remover conta do Arquivo
 
   3 Listar
-  	Mostrar na tela contas do "usuarios.txt"
+  	Mostrar na tela contas do Arquivo
 
   0 Voltar
 
