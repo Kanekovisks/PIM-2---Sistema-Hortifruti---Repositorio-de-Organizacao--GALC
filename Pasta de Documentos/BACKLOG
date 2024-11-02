@@ -26,20 +26,155 @@ BACKLOG:
 
 **Programa**
 
-  Cadastro de entrada ao estoque (ESTOQUISTA)
-    + Registrar o código do produto baseado no tipo/valor/quantidade 
+========================================
+LOGIN
+  ADM 1 Básico 0 {
+    Login
+    Nome
+    Senha
+  }
+========================================
 
-  Fluxo de caixa (CAIXA)
-    + Registrar saída do estoque
+Menu Principal
+  1 Estoque
+  2 Vendas
+  3 Caixa
+  4 Contas
+  0 Sair
 
-  Conexão entre estoque e fluxo de saída (CAIXA)
-    + Recebimento do sistema do estoque de informações de saída
 
-  Controle de qualidade (ESTOQUISTA)
-    + Controle de validade do produto
+Menu Estoque
+  1 Adicionar
+  2 Listar
+  3 Buscar
+  4 Remover
+  0 Voltar
 
-  Otimização de logística do estoque (ADM)
-    + Melhoria na busca dos produtos dentro do estoque
 
-  Custo/Lucro (ADM)
-    + Identificação de balanço entrada/saída
+Menu Vendas
+  1 Registrar Vendas
+  2 Visualizar Vendas
+  0 Voltar
+
+
+Menu Caixa
+1 Extrato Diário
+2 Extrato Semanal
+3 Extrato Mensal
+0 Voltar
+
+
+Menu Contas
+  1 Adicionar
+  2 Remover
+  3 Listar
+  0 Voltar
+
+
+
+========================================
+
+Menu Principal
+  1 Estoque
+	  Mostrar na tela Menu de Estoque
+
+  2 Vendas
+	  Mostrar na tela Menu de Vendas
+
+  3 Caixa
+	  Mostrar na tela Menu de Caixa
+
+  4 Contas
+  	Mostrar na tela Menu de Contas
+
+  0 Sair
+
+
+========================================
+
+
+Menu Estoque
+  1 Adicionar
+  	Dizer ID do produto
+	  Dizer o Nome do produto
+  	Dizer a quantidade do produto
+  	Dizer preço do produto
+  	Adicionar ao "estoque.txt"
+
+  2 Listar
+  	Mostrar ID do produto
+  	Mostrar o Nome do produto
+  	Mostrar a quantidade do produto
+  	Mostrar preço do produto
+
+  3 Buscar
+  	Dizer o ID do produto
+  	Procurar produto no "estoque.txt"
+
+  4 Remover
+  	Dizer ID do produtor
+  	Remover produto do "estoque.txt"
+
+  0 Voltar
+
+
+========================================
+
+
+Menu Vendas
+  1 Registrar Vendas
+  	Listar itens estoque (ID,DESC,VALOR,QUANT)
+  	Solicitar ID ser vendido
+  	Solicitar QUANT 
+  	Concluir 
+  	Listar venda atual (ID,DESC,QUANT,VALOR_UNIT,VALOR_TOT)
+
+  2 Visualizar Vendas
+	  Mostrar vendas passadas (ID,DESC,QUANT,VALOR_UNIT,VALOR_TOT)
+
+  0 Voltar
+
+
+========================================
+
+
+Menu de Caixa
+  1 Extrato Diário
+  	Mostrar Gastos por dia
+  	Mostrar Ganhos por dia
+  	Mostrar Faixa de lucro/perda do dia
+
+  2 Extrato Semanal
+  	Mostrar Gastos por semana
+  	Mostrar Ganhos por semana
+  	Mostrar Faixa de lucro/perda do semana
+
+  3 Extrato Mensal
+  	Mostrar Gastos por mês
+  	Mostrar Ganhos por mês
+  	Mostrar Faixa de lucro/perda do mês
+
+  0 Voltar
+
+
+========================================
+
+
+Menu Contas
+  1 Adicionar
+	  Dizer o Nome da conta
+  	Dizer a Senha da conta
+  	Definir tipo da conta // 1 - Admin / 0 - Normal
+  	Adicionar conta no "usuarios.txt"
+
+  2 Remover
+  	Dizer o Nome da conta
+  	Remover conta do "usuarios.txt"
+
+  3 Listar
+  	Mostrar na tela contas do "usuarios.txt"
+
+  0 Voltar
+
+
+========================================
