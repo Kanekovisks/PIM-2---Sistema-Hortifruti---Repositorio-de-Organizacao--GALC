@@ -1,0 +1,5 @@
+ID	Nome           	Quantidade	Preço
+1	Macarao        	90		2,50
+2	Chocolate      	97		7,50
+3	Banana         	90		1,50
+4	Laranja        	80		3,60

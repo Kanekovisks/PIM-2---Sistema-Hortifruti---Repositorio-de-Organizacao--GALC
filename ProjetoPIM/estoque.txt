@@ -1,0 +1,7 @@
+ID	Nome           	Quantidade	Preço
+1	Banana         	90		1,50
+2	Chocolate      	98		10,70
+3	Tomate         	3		0,50
+4	Jaca           	13		0,30
+10	Tomates        	100		10,50
+11	Goiabas        	100		5,50

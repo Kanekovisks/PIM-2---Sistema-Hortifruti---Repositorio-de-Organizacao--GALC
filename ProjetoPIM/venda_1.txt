@@ -1,0 +1,12 @@
+ID: 1, Nome: Banana, Quantidade: 10, Preço unitário: 1,50, Subtotal: 15,00
+Valor total da venda: 15,00
+ID: 2, Nome: Chocolate, Quantidade: 2, Preço unitário: 10,70, Subtotal: 21,40
+Valor total da venda: 36,40
+ID: 4, Nome: Jaca, Quantidade: 2, Preço unitário: 0,30, Subtotal: 0,60
+Valor total da venda: 37,00
+ID: 1, Nome: Banana         , Quantidade: 1, Preço unitário: 1,50, Subtotal: 1,50
+Valor total da venda: 1,50
+ID: 2, Nome: Chocolate      , Quantidade: 1, Preço unitário: 10,70, Subtotal: 10,70
+Valor total da venda: 10,70
+ID: 10, Nome: Tomates        , Quantidade: 1, Preço unitário: 10,50, Subtotal: 10,50
+Valor total da venda: 10,50
