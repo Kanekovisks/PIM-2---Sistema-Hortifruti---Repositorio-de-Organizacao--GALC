@@ -139,9 +139,19 @@ Menu Vendas
 
 
 Menu de Caixa
-  1 Extrato
+  1 Extrato Diário
   	Mostrar Gastos por dia
   	Mostrar Ganhos por dia
+  	Mostrar Faixa de lucro/perda
+
+  2 Extrato Semanal
+  	Mostrar Gastos por semana
+  	Mostrar Ganhos por semana
+  	Mostrar Faixa de lucro/perda	
+
+  3 Extrato Mensal
+  	Mostrar Gastos por mês
+  	Mostrar Ganhos por mês
   	Mostrar Faixa de lucro/perda
 
   0 Voltar
