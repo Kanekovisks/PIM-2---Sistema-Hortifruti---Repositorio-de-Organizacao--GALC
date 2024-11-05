@@ -1,8 +1,0 @@
-ID: 1, Nome: Macarao, Quantidade: 10, Preço unitário: 2,50, Subtotal: 25,00
-Valor total da venda: 25,00
-ID: 2, Nome: Chocolate, Quantidade: 3, Preço unitário: 7,50, Subtotal: 22,50
-Valor total da venda: 47,50
-ID: 3, Nome: Banana, Quantidade: 10, Preço unitário: 1,50, Subtotal: 15,00
-Valor total da venda: 62,50
-ID: 4, Nome: Laranja, Quantidade: 20, Preço unitário: 3,60, Subtotal: 72,00
-Valor total da venda: 134,50
