@@ -26,6 +26,44 @@ BACKLOG:
 
 **Programa**
 
+
+ADM
+	Acessar Menu de Caixa
+	Acessar Menu de Contas
+	Visualizar Extrato Diário
+	Visualizar Extrato Semanal
+	Visualizar Extrato Mensal
+	Adicionar Conta
+	Remover Conta
+	Listar Contas
+
+CAIXA
+	Acessar Menu de Vendas
+	Registrar Vendas
+	Visualizar Vendas
+
+ESTOQUISTA
+	Acessar Menu de Estoque
+	Adicionar Produto
+	Listar Produtos
+	Buscar Produto
+	Remover Produto
+
+ADM
+	Visualizar Extrato Diário/Semanal/Mensal: Permite ao ADM consultar os extratos financeiros do sistema em diferentes períodos.
+	Adicionar, Remover e Listar Contas: O ADM pode gerenciar as contas de usuários, criando, removendo e listando-as.
+
+CAIXA
+	Registrar Vendas: O CAIXA registra vendas no sistema, especificando produtos e quantidades.
+	Visualizar Vendas: O CAIXA pode consultar vendas realizadas anteriormente.
+
+ESTOQUISTA
+	Adicionar Produto: O ESTOQUISTA pode adicionar novos produtos ao estoque.
+	Listar Produtos e Buscar Produto: Permite ao ESTOQUISTA visualizar e procurar produtos específicos no sistema.
+	Remover Produto: O ESTOQUISTA pode excluir produtos do sistema.
+
+
+
 ========================================
 LOGIN
   ADM 1 Básico 0 {
